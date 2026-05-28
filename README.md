@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👋 Hi, I'm [Your Name]
+  # 👋 Hi, I'm [ Yash Tambe ]
   
   ### 🎓 Computer Engineering Student 
   ### 🌌 Creative Lead @ Skybeam Studio | 🚀 GDG Design Lead (2025-26)
