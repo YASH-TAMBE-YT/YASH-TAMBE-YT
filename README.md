@@ -1,7 +1,37 @@
-# 💫 About Me:
-<div align="center"><br>  <br>  # 👋 Hi, I'm Yash Tambe<br>  <br>  ### 🎓 Computer Engineering Student <br>  ### 🌌 Creative Lead @ Skybeam Studio | 🚀 GDG Design Lead (2025-26)<br>  <br>  <br/><br><br>  > **I'm into:** ✨ UI/UX Design &nbsp;&nbsp;•&nbsp;&nbsp; 💻 Web Dev + DSA &nbsp;&nbsp;•&nbsp;&nbsp; 🧠 3D Web Experiences<br>  <br></div><br><br>---<br><br>### ⚡ Tech Stack<br><br>**Core & Animation:**<br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greysanatomy&logoColor=white)<br><br>**Frameworks & Styling:**<br>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)<br>![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)<br><br>---<br><br>### 🎨 Beyond the Screen<br>When I'm not designing interfaces or writing code, you can find me:<br>* **🏋️‍♂️ At the Gym** - Working on those *DesiGains*.<br>* **📸 Exploring Photography & Editing** - Framing the perfect shot.<br>* **🍳 Cooking** - Experimenting with new recipes.
+<div align="center">
+  
+  # 👋 Hi, I'm Yash Tambe
+  
+  ### 🎓 Computer Engineering Student 
+  ### 🌌 Creative Lead @ Skybeam Studio | 🚀 GDG Design Lead (2025-26)
+  
+  <br/>
 
+  > **I'm into:** ✨ UI/UX Design &nbsp;&nbsp;•&nbsp;&nbsp; 💻 Web Dev + DSA &nbsp;&nbsp;•&nbsp;&nbsp; 🧠 3D Web Experiences
+  
+</div>
 
+---
+
+### ⚡ Tech Stack
+
+**Core & Animation:**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greysanatomy&logoColor=white)
+
+**Frameworks & Styling:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+---
+
+### 🎨 Beyond the Screen
+When I'm not designing interfaces or writing code, you can find me:
+* **🏋️‍♂️ At the Gym** - Working on those *DesiGains*.
+* **📸 Exploring Photography & Editing** - Framing the perfect shot.
+* **🍳 Cooking** - Experimenting with new recipes.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yash_tambe_2212) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-tambe-834635328/) 
 
