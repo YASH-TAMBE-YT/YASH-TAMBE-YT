@@ -1,10 +1,6 @@
 <div align="center">
   
- <div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hey+there+👋;Namaskar;Namaste;I+am+Yash+Tambe" alt="Typing SVG" />
-  </a>
+ <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=HELLOE+👋;NAMASKAR;NAMASTE;"I'm Yash Tambe" alt="Typing SVG" /> </h1>
 
   <br/>
 
