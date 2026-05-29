@@ -1,7 +1,7 @@
-<div align="center">
-  
- <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=500&color=58A6FF&center=true&vCenter=true&width=520&lines=HELLO !+👋;NAMASKAR;NAMASTE;I'm+Yash Tambe alt="Typing SVG" /> </h1>
 
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=300&color=58A6FF&center=true&vCenter=true&width=520&lines=HELLO+!+👋;NAMASKAR;NAMASTE;I'm+Yash+Tambe" alt="Typing SVG" /> 
+</h1>
   <br/>
 
   <p align="center">
