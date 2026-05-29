@@ -1,9 +1,10 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=300&color=58A6FF&center=true&vCenter=true&width=520&lines=HELLO+!+👋;NAMASKAR;NAMASTE;I'm+Yash+Tambe" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=300&color=58A6FF&center=true&vCenter=true&width=520&lines=HELLO+%21+%F0%9F%91%8B;NAMASKAR;NAMASTE;I%27m+Yash+Tambe" alt="Typing SVG" />
   </a>
 </div>
+<br/>
 <br/>
   <br/>
 
