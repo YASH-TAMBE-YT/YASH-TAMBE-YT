@@ -12,11 +12,11 @@
     <a href="https://dribbble.com/yashtambe02">
       <img src="https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
     </a>
+    <a href="https://www.behance.net/extremeandtec">
+      <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+    </a>
   </p>
 </div>
-
-</div>
-  
   ### 🎓 Computer Engineering Student 
   ### 🌌 Creative Lead @ Skybeam Studio | 🚀 GDG Design Lead (2025-26)
   
