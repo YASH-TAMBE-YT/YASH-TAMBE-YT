@@ -1,16 +1,18 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=300&color=58A6FF&center=true&vCenter=true&width=520&lines=HELLO+%21+%F0%9F%91%8B;NAMASKAR;NAMASTE;I%27m+Yash+Tambe" alt="Typing SVG" />  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=300&color=58A6FF&center=true&vCenter=true&width=520&lines=HELLO+%21+%F0%9F%91%8B;NAMASKAR;NAMASTE;I%27m+Yash+Tambe" alt="Typing SVG" />
+  </a>
   <br/>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/yash-tambe-834635328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://dribbble.com/yashtambe02">
-  <img src="[https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/yashtambe02))" alt="Dribbble" />
-</a>
+    <a href="https://www.linkedin.com/in/yash-tambe-834635328/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://dribbble.com/yashtambe02">
+      <img src="https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+    </a>
   </p>
-
 </div>
 
 </div>
